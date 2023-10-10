@@ -1,6 +1,6 @@
 # ABOUT
 
-_Read my updated resume [here](https://github.com/emilytyszka/emilytyszka/blob/main/Tyszka%20Resume%20October%202023-Github.pdf)_
+_Read my updated resume [here](https://github.com/emilytyszka/emilytyszka/blob/main/Tyszka%20Resume%20October%202023-Github.pdf)_.
    
 ## Guide to my repositories:
 -  [MASPHL-Syndromic-Surveillance](https://github.com/emilytyszka/MASPHL-Syndromic-Surveillance): Syndromic Surveillance projects conducted at DPH (CURRENT WORK)
