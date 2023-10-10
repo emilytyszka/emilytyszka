@@ -11,15 +11,15 @@ _Read my updated resume [here](https://github.com/emilytyszka/emilytyszka/blob/m
     - Miscellaneous Projects
 -  [MASPHL-Clinical-Microbiology](https://github.com/emilytyszka/MASPHL-Clinical-Microbiology): Ongoing support to the DPH Clinical Microbiology Lab
     - Internal Reporting
-    - External Reporting (for CDC, grant funding, etc.)
+    - External Reporting 
     - Miscellaneous Projects
 -  [MASPHL-Tuberculosis](https://github.com/emilytyszka/MASPHL-Tuberculosis): Routine reporting for the DPH Clinical Microbiology Lab
     - Internal Reporting
 -  [MASPHL-Whole-Genome-Sequencing](https://github.com/emilytyszka/MASPHL-Whole-Genome-Sequencing): Multi-lab projects conducted with the Sequencing and Bioinformatics Core
     - CT Values Analysis
-    - Variant Frequency Analysis
+    - Variant Frequency Analysis (in conjunction with the Wastewater lab)
 -  [MASPHL-Misc](https://github.com/emilytyszka/MASPHL-Misc)
-    - Fun activities for lab week 2023
+    - Activities for lab week 2023
 -  [CWRU-Briggs-Multiple-Sclerosis](https://github.com/emilytyszka/CWRU-Briggs-Multiple-Sclerosis): Graduate capstone (thesis) work on physical activity in persons with multiple sclerosis
 -  [CWRU-Pope-Postpartum-Depression](https://github.com/emilytyszka/CWRU-Pope-Postpartum-Depression): Student project examining potential determinants of postpartum depression in individuals who gave birth in the early COVID-19 pandemic.
 
