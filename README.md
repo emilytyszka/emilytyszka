@@ -13,7 +13,7 @@ _Read my updated resume [here](https://github.com/emilytyszka/emilytyszka/blob/m
     - Internal Reporting
     - External Reporting 
     - Miscellaneous Projects
--  [MASPHL-Tuberculosis](https://github.com/emilytyszka/MASPHL-Tuberculosis): Routine reporting for the DPH Clinical Microbiology Lab
+-  [MASPHL-Tuberculosis](https://github.com/emilytyszka/MASPHL-Tuberculosis): Routine reporting for the DPH Mycobacteriology Lab
     - Internal Reporting
 -  [MASPHL-Whole-Genome-Sequencing](https://github.com/emilytyszka/MASPHL-Whole-Genome-Sequencing): Multi-lab projects conducted with the Sequencing and Bioinformatics Core
     - CT Values Analysis
