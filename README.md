@@ -1,7 +1,7 @@
 # ABOUT
    
 ## Guide to my repositories:
--  [MASPHL-Syndromic-Surveillance](https://github.com/emilytyszka/MASPHL-Syndromic-Surveillance): Syndromic Surveillance projects conducted at DPH (CURRENT WORK)
+-  [MASPHL-Syndromic-Surveillance](https://github.com/emilytyszka/MASPHL-Syndromic-Surveillance): Syndromic Surveillance projects conducted at DPH (CURRENT WORK - COMING SOON)
 -  [MASPHL-Wastewater-Analysis](https://github.com/emilytyszka/MASPHL-Wastewater-Analysis): Assisting the development of the DPH Wastewater lab
     - Internal Reporting
     - Interlaboratory Comparisons for Validation
