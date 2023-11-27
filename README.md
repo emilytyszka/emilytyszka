@@ -1,7 +1,7 @@
 # ABOUT
 
 ## Who are you?
-I'm Emily Tyszka (pronounced TISH-ka). I work as an Epidemiologist for the Massachusetts Department of Public Health's Syndromic Surveillance team and was formerly the Research Analyst for MADPH's Microbiology Division.
+I'm Emily Tyszka (pronounced TISH-ka). I work as an Epidemiologist for the Massachusetts Department of Public Health's Syndromic Surveillance team, focusing on infectious disease. I was also formerly the Research Analyst for MADPH's Microbiology Division and have completed some work in multiple sclerosis during my MPH.  
    
 ## Guide to my repositories:
 -  [MASPHL-Syndromic-Surveillance](https://github.com/emilytyszka/MASPHL-Syndromic-Surveillance): Syndromic Surveillance projects conducted at DPH (CURRENT WORK - IN PROGRESS)
