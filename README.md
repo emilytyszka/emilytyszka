@@ -1,9 +1,4 @@
-# ABOUT
-
-## Who are you?
-I'm Emily Tyszka (pronounced TISH-ka). I work as an Epidemiologist for the Massachusetts Department of Public Health's Syndromic Surveillance team, focusing on infectious disease. I was also formerly the Research Analyst for MADPH's Microbiology Division and have completed some work in physical activity among people with multiple sclerosis during my MPH.  
-   
-## Guide to my repositories:
+# Guide to my repositories:
 -  [MASPHL-Syndromic-Surveillance](https://github.com/emilytyszka/MASPHL-Syndromic-Surveillance): Syndromic Surveillance projects conducted at DPH (CURRENT WORK - IN PROGRESS)
     - Analysis of lag between visit arrive date-time and date-time of first message with a COVID-19 ICD10 diagnosis.
     - Comparison of COVID-19 wastewater concentrations, COVID-19 alerts via MassNotify, and syndromic data of COVID-19-related visits
