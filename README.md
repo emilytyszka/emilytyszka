@@ -8,7 +8,7 @@ I'm Emily Tyszka (pronounced TISH-ka). I work as an Epidemiologist for the Massa
     - Comparison of COVID-19 wastewater concentrations, COVID-19 alerts via MassNotify, and syndromic data of COVID-19-related visits
     - Adoption of [code by Kendall et al.](https://github.com/MichelleKendall/epi_impacts_NHS_COVID-19_app_first_year) to quantify the impact of exposure notifications on COVID-19 cases and deaths in MA
     - Adaptation of the Moving Epidemic Method for respiratory illness tracking in Massachusetts (working off R projects kindly supplied by Sara Chronister and Michael Sheppard)
-    - MA DPH Pan-Respiratory Dashboard Data Reporting
+    - MADPH Pan-Respiratory Dashboard Data Reporting
     - Miscellaneous data pulls and projects
 -  [MASPHL-Wastewater-Analysis](https://github.com/emilytyszka/MASPHL-Wastewater-Analysis): Assisting the development of the DPH Wastewater lab
     - Internal Reporting
